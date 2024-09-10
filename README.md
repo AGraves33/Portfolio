@@ -3,9 +3,10 @@
 #### Technical Skills: Python, SQL, Excel, Tableau, R
 
 ## Education
-M.S. Data Analytics | The University of Nevada Las Vegas (_2022-2024)
+M.S. Data Analytics | The University of Nevada Las Vegas (_2022-2024_)
 - 3.97 Cumulative GPA<br/> 
 - Business Sub Focus
+
 Bachelor of Arts in Mathematics | THe University of Nevada Las Vegas (_2018-2022_)
 - 3.81 Cumulative GPA<br/> 
 - 2020 Sophomore of the Year for the College of Sciences.
