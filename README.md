@@ -28,7 +28,7 @@ Bike Sales Dashboard
 - Combines three pivot tables and four slicers to analyze bike sales.
 - Value: Provides business insight about customers and how likely they are to buy a bike based on their demographic or personal characteristics.
 
-PYTHON<br/> 
+PYTHON
 <br/>NFL Home Attendance and Team Success
 - Combined web scrapping with an already existing dataset to gather more datapoints.
 - Performed in depth data cleaning techniques to combine multiple excel files into one working dataset.
@@ -57,7 +57,7 @@ Olympian Data Cleaning and Analysis
 - Created a group by table to analyze the average BMI of athletes based on the country they competed for and their gender. 
 - Value: Demonstrates knowledge with the Pandas library, as well as matplotlib to analyze and visualize data.
 
-SQL<br/> 
+SQL 
 <br/>Northwind Traders Database (SQL Server)
 - Used various join methods to combine tables.
 - Demonstrated knowledge of CTE's and UNION to find results.
@@ -72,7 +72,7 @@ Sakila Database (MySQL)
 - Performed DateDiff to analyze date values.
 - Value: Demonstrates knowledge of different SQL functions and topics.
 
-TABLEAU<br/> 
+TABLEAU
 <br/>Northwind Traders Data
 - Created interactive dashboard based on SQL queries
 - Used different visualization techniques such as bar graphs, map graphs, line graphs, and data charts.
