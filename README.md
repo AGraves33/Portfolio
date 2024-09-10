@@ -15,7 +15,7 @@ Bachelor of Arts in Mathematics | The University of Nevada Las Vegas (_2018-2022
 - Developed critical thinking skills by proving and solving problems using various strategies
 
 ### Projects
-####EXCEL
+#EXCEL
 <br/>FIFA Video Game Dashboard
 - Cleaned dataset by removing missing values, filtering, grouping of data based on conditions.
 - Used various Excel functions to create final dataset.
