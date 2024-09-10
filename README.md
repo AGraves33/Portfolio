@@ -17,7 +17,7 @@ Port of Subs - Restaurant Team Member
 
 ### Projects
 EXCEL<br/> 
-Fifa Video Game Dashboard
+<br/>Fifa Video Game Dashboard
 - Cleaned dataset by removing missing values, filtering, grouping of data based on conditions.
 - Used various Excel functions to create final dataset.
   •	PROPER(),TRIM(),LEFT(),MID(),FIND(),IF(),VLOOKUP(),SUBSTITUTE(),COUNTIF()
@@ -30,7 +30,7 @@ Bike Sales Dashboard
 - Value: Provides business insight about customers and how likely they are to buy a bike based on their demographic or personal characteristics.
 
 PYTHON<br/> 
-NFL Home Attendance and Team Success
+<br/>NFL Home Attendance and Team Success
 - Combined webscrapping with an already existing dataset to gather more datapoints.
 - Performed in depth data cleaning techniques to combine multiple excel files into one working dataset.
 - Filtered and joined values based on team names.
@@ -111,4 +111,3 @@ DataCamp Online Class: Understanding Data Visualization
 - The National Society of Leadership and Success 
 - City of Henderson, “READY” Crew (Emergency Preparedness) volunteer (2014-Present)
 - BSA Star Scout
-
