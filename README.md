@@ -1,7 +1,7 @@
 ### Education
-University of Nevada Las Vegas
-M.S. Data Analytics, 3.97 Cumulative GPA
-Bachelor of Arts in Mathematics, 3.81 Cumulative GPA
+University of Nevada Las Vegas<br/> 
+M.S. Data Analytics, 3.97 Cumulative GPA<br/> 
+Bachelor of Arts in Mathematics, 3.81 Cumulative GPA<br/> 
 - 2020 Sophomore of the Year for the College of Sciences.
 - Achieved Dean's List as a term honor in multiple semesters.
 - Improved mathematical and statistical knowledge.
@@ -10,26 +10,26 @@ Bachelor of Arts in Mathematics, 3.81 Cumulative GPA
 ### Experience
 American Red Cross Volunteer - Scheduling Team Member
 - Used Red Cross database to contact and schedule appointments for new volunteers
-- Analyzed database for missing or incorrect values
+- Analyzed database for missing or incorrect values<br/> 
 Port of Subs - Restaurant Team Member
 - Followed procedures for safe food preparation and maintained day to day business operations.
 - Ensured high standards of customer service within a fast-paced working environment.
 
 ### Projects
-EXCEL
+EXCEL<br/> 
 Fifa Video Game Dashboard
 - Cleaned dataset by removing missing values, filtering, grouping of data based on conditions.
 - Used various Excel functions to create final dataset.
   •	PROPER(),TRIM(),LEFT(),MID(),FIND(),IF(),VLOOKUP(),SUBSTITUTE(),COUNTIF()
-- Created dashboard that uses six pivot tables with five slicers to display player statistics
+- Created dashboard that uses six pivot tables with five slicers to display player statistics.<br/> 
 Value: Provides insights about player salary, height, weight, and best position. You can analyze these values by age, continent, and if they are right of left foot.
 
 Bike Sales Dashboard
 - Cleaned dataset using various functions within excel.
-- Combines three pivot tables and four slicers to analyze bike sales.
+- Combines three pivot tables and four slicers to analyze bike sales.<br/> 
 Value: Provides business insight about customers and how likely they are to buy a bike based on their demographic or personal characteristics.
 
-PYTHON
+PYTHON<br/> 
 NFL Home Attendance and Team Success
 - Combined webscrapping with an already existing dataset to gather more datapoints.
 - Performed in depth data cleaning techniques to combine multiple excel files into one working dataset.
@@ -38,16 +38,16 @@ NFL Home Attendance and Team Success
 - Created correlation matrix to determine features for large language model.
 - Created a logistic regression model to see if attendance had an influence on the outcome of the game.
 - Tested whether attendance was statistically significant using NumPy and a Wald chi-square test.
-- Analyzed social media data of teams to compare to fan attendance.
+- Analyzed social media data of teams to compare to fan attendance.<br/> 
 Value: Demonstration knowledge in Pandas, webscraping, NumPy, and large language models.
 
-Google Playstore Data Cleaning
+Google Playstore Data Cleaning<br/> 
 - Used Pandas library to find incorecct data and null values.
 - Changed column types to match their data fields.
 - Removed duplicate rows and kept the app with the most reviews.
 - Normalized string data and removed extra characters.
-- Reformated data to have consistancy throughout (Converted M and k to just be bytes for app size).
-Value: Demonstrates experience with Pandas Library and data manipulation
+- Reformated data to have consistancy throughout (Converted M and k to just be bytes for app size).<br/> 
+Value: Demonstrates experience with Pandas Library and data manipulation<br/> 
 
 Olympian Data Cleaning and Analysis
 - Removed unwanted characters from columns.
@@ -55,25 +55,25 @@ Olympian Data Cleaning and Analysis
 - Extracted dates from values in order to create a datetime column using regular expressions.
 - Analyzed olympians by their age groups,their average age, height, and weight based on gender.
 - Displayed results using matplotlib library.
-- Created a groupby table to analyze the average BMI of atheletes based on the country they competted for and their gender.
+- Created a groupby table to analyze the average BMI of atheletes based on the country they competted for and their gender.<br/> 
 Value: Demonstrates knowledge with the Pandas library, as well as matplotlib to analyze and visualize data.
 
-SQL
+SQL<br/> 
 Northwind Traders Database (SQL Server)
 - Used various join methods to combine tables.
 - Demonstrated knowledge of CTE's and UNION to find results.
 - Performed groupby and aggregate functions to summarize data.
-- Conducted eight seperate queries to answer questions about the dataset.
+- Conducted eight seperate queries to answer questions about the dataset.<br/> 
 Value: Demonstrates ability to analyze sales data in order to answer business questions.
 
 Sakila Database (MySQL)
 - Performed multiple joins to combine tables and properly analyze them.
 - Made use of Concat and aggregate functions such as Sum and Count.
 - Used Case to provide conditional logic to queries.
-- Performed DateDiff to analyze date values.
+- Performed DateDiff to analyze date values.<br/> 
 Value: Demonstrates knowledge of different SQL functions and topics.
 
-TABLEAU
+TABLEAU<br/> 
 Northwith Traders Data
 - Created interactive dashboard based on SQL queries
 - Used different visualization techniques such as bar graphs, map graphs, line graphs, and data charts.
@@ -85,15 +85,15 @@ Training:
 Udemy Online Class: 2022 Complete Python Bootcamp from Zero to Hero in Python
 - Learned basic python skills and how to write well formatted code.
 - Incorporated different libraries to manipulate variables.
-- Used while and for loops to construct code. 
+- Used while and for loops to construct code.<br/>  
 Udemy Online Class: Learning Python for Data Analysis and Visualization
 - Applied python knowledge to view and manipulate data set.
 - Learned basics of pandas library to create data frames. 
-- Learned how to use the seaborn library to visualize data and interpret it.
+- Learned how to use the seaborn library to visualize data and interpret it.<br/> 
 Udemy Online Class: The Complete SQL Bootcamp 2022: Go from Zero to Hero
 - Learned basic concepts of SQL using MySQL program.
 - Created tables and read excel spreadsheets to conduct queries on.
-- Performed queries using different joins to manipulate data.
+- Performed queries using different joins to manipulate data.<br/> 
 DataCamp Online Class: Introduction to R
 - Learned basic concepts of R such as vectors, matrices, factors, data frames, and lists.
 - Learned how to assign variables and the basic syntax of the R language.
