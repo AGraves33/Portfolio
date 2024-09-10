@@ -5,7 +5,7 @@ University of Nevada Las Vegas<br/>
 - 2020 Sophomore of the Year for the College of Sciences.
 - Achieved Dean's List as a term honor in multiple semesters.
 - Improved mathematical and statistical knowledge.
-- Developed critical thinking skills by proving and solving problems using various strategious
+- Developed critical thinking skills by proving and solving problems using various strategies
 
 ### Experience
 American Red Cross Volunteer - Scheduling Team Member
