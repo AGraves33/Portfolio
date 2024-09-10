@@ -1,20 +1,17 @@
-### Education
-University of Nevada Las Vegas<br/> 
-<br/> M.S. Data Analytics, 3.97 Cumulative GPA<br/> 
-<br/> Bachelor of Arts in Mathematics, 3.81 Cumulative GPA<br/> 
+# Data Analyst
+
+#### Technical Skills: Python, SQL, Excel, Tableau, R
+
+## Education
+M.S. Data Analytics | The University of Nevada Las Vegas (_2022-2024)
+- 3.97 Cumulative GPA<br/> 
+- Business Sub Focus
+Bachelor of Arts in Mathematics | THe University of Nevada Las Vegas (_2018-2022_)
+- 3.81 Cumulative GPA<br/> 
 - 2020 Sophomore of the Year for the College of Sciences.
 - Achieved Dean's List as a term honor in multiple semesters.
 - Improved mathematical and statistical knowledge.
 - Developed critical thinking skills by proving and solving problems using various strategies
-
-### Experience
-American Red Cross Volunteer - Scheduling Team Member
-- Used Red Cross database to contact and schedule appointments for new volunteers
-- Analyzed database for missing or incorrect values
- 
-Port of Subs - Restaurant Team Member
-- Followed procedures for safe food preparation and maintained day to day business operations.
-- Ensured high standards of customer service within a fast-paced working environment.
 
 ### Projects
 EXCEL<br/> 
@@ -80,6 +77,15 @@ Northwind Traders Data
 - Used different visualization techniques such as bar graphs, map graphs, line graphs, and data charts.
 - Provides knowledge of yearly sales, top employees, popular and least popular countries, and products.
 - Value: Demonstrates knowledge in visualizing data, filters, and creating dashboards that work together.
+
+### Experience
+American Red Cross Volunteer - Scheduling Team Member
+- Used Red Cross database to contact and schedule appointments for new volunteers
+- Analyzed database for missing or incorrect values
+ 
+Port of Subs - Restaurant Team Member
+- Followed procedures for safe food preparation and maintained day to day business operations.
+- Ensured high standards of customer service within a fast-paced working environment.
 
 ### Training
 Udemy Online Class: 2022 Complete Python Bootcamp from Zero to Hero in Python
