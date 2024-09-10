@@ -58,7 +58,7 @@ Olympian Data Cleaning and Analysis
 - Value: Demonstrates knowledge with the Pandas library, as well as matplotlib to analyze and visualize data.
 
 SQL<br/> 
-Northwind Traders Database (SQL Server)
+<br/>Northwind Traders Database (SQL Server)
 - Used various join methods to combine tables.
 - Demonstrated knowledge of CTE's and UNION to find results.
 - Performed group by and aggregate functions to summarize data.
@@ -73,7 +73,7 @@ Sakila Database (MySQL)
 - Value: Demonstrates knowledge of different SQL functions and topics.
 
 TABLEAU<br/> 
-Northwind Traders Data
+<br/>Northwind Traders Data
 - Created interactive dashboard based on SQL queries
 - Used different visualization techniques such as bar graphs, map graphs, line graphs, and data charts.
 - Provides knowledge of yearly sales, top employees, popular and least popular countries, and products.
