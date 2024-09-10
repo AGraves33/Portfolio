@@ -85,15 +85,15 @@ Training:
 Udemy Online Class: 2022 Complete Python Bootcamp from Zero to Hero in Python
 - Learned basic python skills and how to write well formatted code.
 - Incorporated different libraries to manipulate variables.
-- Used while and for loops to construct code.<br/>  
+- Used while and for loops to construct code.<br/> 
 Udemy Online Class: Learning Python for Data Analysis and Visualization
 - Applied python knowledge to view and manipulate data set.
 - Learned basics of pandas library to create data frames. 
-- Learned how to use the seaborn library to visualize data and interpret it.<br/> 
+- Learned how to use the seaborn library to visualize data and interpret it.<br/>
 Udemy Online Class: The Complete SQL Bootcamp 2022: Go from Zero to Hero
 - Learned basic concepts of SQL using MySQL program.
 - Created tables and read excel spreadsheets to conduct queries on.
-- Performed queries using different joins to manipulate data.<br/> 
+- Performed queries using different joins to manipulate data.<br/>
 DataCamp Online Class: Introduction to R
 - Learned basic concepts of R such as vectors, matrices, factors, data frames, and lists.
 - Learned how to assign variables and the basic syntax of the R language.
