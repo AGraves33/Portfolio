@@ -17,10 +17,10 @@ Port of Subs - Restaurant Team Member
 
 ### Projects
 EXCEL<br/> 
-<br/>Fifa Video Game Dashboard
+<br/>FIFA Video Game Dashboard
 - Cleaned dataset by removing missing values, filtering, grouping of data based on conditions.
 - Used various Excel functions to create final dataset.
-  •	PROPER(),TRIM(),LEFT(),MID(),FIND(),IF(),VLOOKUP(),SUBSTITUTE(),COUNTIF()
+  PROPER(),TRIM(),LEFT(),MID(),FIND(),IF(),VLOOKUP(),SUBSTITUTE(),COUNTIF()
 - Created dashboard that uses six pivot tables with five slicers to display player statistics.
 - Value: Provides insights about player salary, height, weight, and best position. You can analyze these values by age, continent, and if they are right of left foot.
 
@@ -31,7 +31,7 @@ Bike Sales Dashboard
 
 PYTHON<br/> 
 <br/>NFL Home Attendance and Team Success
-- Combined webscrapping with an already existing dataset to gather more datapoints.
+- Combined web scrapping with an already existing dataset to gather more datapoints.
 - Performed in depth data cleaning techniques to combine multiple excel files into one working dataset.
 - Filtered and joined values based on team names.
 - Conducted and visualized various exploratory data analytics methods.
@@ -39,32 +39,32 @@ PYTHON<br/>
 - Created a logistic regression model to see if attendance had an influence on the outcome of the game.
 - Tested whether attendance was statistically significant using NumPy and a Wald chi-square test.
 - Analyzed social media data of teams to compare to fan attendance.
-- Value: Demonstration knowledge in Pandas, webscraping, NumPy, and large language models.
+- Value: Demonstration knowledge in Pandas, web scraping, NumPy, and large language models.
 
-Google Playstore Data Cleaning<br/> 
-- Used Pandas library to find incorecct data and null values.
+Google Play Data Cleaning<br/> 
+- Used Pandas library to find incorrect data and null values.
 - Changed column types to match their data fields.
 - Removed duplicate rows and kept the app with the most reviews.
 - Normalized string data and removed extra characters.
-- Reformated data to have consistancy throughout (Converted M and k to just be bytes for app size).
+- Reformatted data to have consistency  throughout (Converted M and k to just be bytes for app size).
 - Value: Demonstrates experience with Pandas Library and data manipulation<br/> 
 
 Olympian Data Cleaning and Analysis
 - Removed unwanted characters from columns.
-- Used regular expressions to parse strings in order to split data into seperate columns (height and weight).
-- Extracted dates from values in order to create a datetime column using regular expressions.
-- Analyzed olympians by their age groups,their average age, height, and weight based on gender.
+- Used regular expressions to parse strings to split data into separate columns (height and weight).
+- Extracted dates from values to create a datetime column using regular expressions.
+- Analyzed Olympians by their age groups, their average age, height, and weight based on gender.
 - Displayed results using matplotlib library.
-- Created a groupby table to analyze the average BMI of atheletes based on the country they competted for and their gender. 
+- Created a group by table to analyze the average BMI of athletes based on the country they competed for and their gender. 
 - Value: Demonstrates knowledge with the Pandas library, as well as matplotlib to analyze and visualize data.
 
 SQL<br/> 
 Northwind Traders Database (SQL Server)
 - Used various join methods to combine tables.
 - Demonstrated knowledge of CTE's and UNION to find results.
-- Performed groupby and aggregate functions to summarize data.
-- Conducted eight seperate queries to answer questions about the dataset. 
-- Value: Demonstrates ability to analyze sales data in order to answer business questions.
+- Performed group by and aggregate functions to summarize data.
+- Conducted eight separate queries to answer questions about the dataset. 
+- Value: Demonstrates ability to analyze sales data to answer business questions.
 
 Sakila Database (MySQL)
 - Performed multiple joins to combine tables and properly analyze them.
@@ -74,7 +74,7 @@ Sakila Database (MySQL)
 - Value: Demonstrates knowledge of different SQL functions and topics.
 
 TABLEAU<br/> 
-Northwith Traders Data
+Northwind Traders Data
 - Created interactive dashboard based on SQL queries
 - Used different visualization techniques such as bar graphs, map graphs, line graphs, and data charts.
 - Provides knowledge of yearly sales, top employees, popular and least popular countries, and products.
