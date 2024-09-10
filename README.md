@@ -10,7 +10,8 @@ University of Nevada Las Vegas<br/>
 ### Experience
 American Red Cross Volunteer - Scheduling Team Member
 - Used Red Cross database to contact and schedule appointments for new volunteers
-- Analyzed database for missing or incorrect values<br/> 
+- Analyzed database for missing or incorrect values
+ 
 Port of Subs - Restaurant Team Member
 - Followed procedures for safe food preparation and maintained day to day business operations.
 - Ensured high standards of customer service within a fast-paced working environment.
