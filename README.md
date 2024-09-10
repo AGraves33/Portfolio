@@ -81,14 +81,13 @@ Northwith Traders Data
 - Value: Demonstrates knowledge in visualizing data, filters, and creating dashboards that work together.
 
 ### Training
-Training:
 Udemy Online Class: 2022 Complete Python Bootcamp from Zero to Hero in Python
 - Learned basic python skills and how to write well formatted code.
 - Incorporated different libraries to manipulate variables.
-- Used while and for loops to construct code.<br/> 
+- Used while adn for loops to construct code.<br/>
 Udemy Online Class: Learning Python for Data Analysis and Visualization
-- Applied python knowledge to view and manipulate data set.
-- Learned basics of pandas library to create data frames. 
+- Applied python knowledge to view and manipulate data sets.
+- Learned basics of Pandas Library to create data frames.
 - Learned how to use the seaborn library to visualize data and interpret it.<br/>
 Udemy Online Class: The Complete SQL Bootcamp 2022: Go from Zero to Hero
 - Learned basic concepts of SQL using MySQL program.
@@ -96,8 +95,8 @@ Udemy Online Class: The Complete SQL Bootcamp 2022: Go from Zero to Hero
 - Performed queries using different joins to manipulate data.<br/>
 DataCamp Online Class: Introduction to R
 - Learned basic concepts of R such as vectors, matrices, factors, data frames, and lists.
-- Learned how to assign variables and the basic syntax of the R language.
-- DataCamp Online Class: Understanding Data Visualization
+- Learned how to assign variables and the basic syntax of the R language.<br/>
+DataCamp Online Class: Understanding Data Visualization
 - Learned about the different graphs that are used to display data.
 - Learned about the different aspects of a graph (color, axis, and size).
 
