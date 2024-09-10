@@ -84,18 +84,22 @@ Northwith Traders Data
 Udemy Online Class: 2022 Complete Python Bootcamp from Zero to Hero in Python
 - Learned basic python skills and how to write well formatted code.
 - Incorporated different libraries to manipulate variables.
-- Used while adn for loops to construct code.<br/>
+- Used while adn for loops to construct code.
+
 Udemy Online Class: Learning Python for Data Analysis and Visualization
 - Applied python knowledge to view and manipulate data sets.
 - Learned basics of Pandas Library to create data frames.
-- Learned how to use the seaborn library to visualize data and interpret it.<br/>
+- Learned how to use the seaborn library to visualize data and interpret it.
+
 Udemy Online Class: The Complete SQL Bootcamp 2022: Go from Zero to Hero
 - Learned basic concepts of SQL using MySQL program.
 - Created tables and read excel spreadsheets to conduct queries on.
-- Performed queries using different joins to manipulate data.<br/>
+- Performed queries using different joins to manipulate data.
+
 DataCamp Online Class: Introduction to R
 - Learned basic concepts of R such as vectors, matrices, factors, data frames, and lists.
-- Learned how to assign variables and the basic syntax of the R language.<br/>
+- Learned how to assign variables and the basic syntax of the R language.
+
 DataCamp Online Class: Understanding Data Visualization
 - Learned about the different graphs that are used to display data.
 - Learned about the different aspects of a graph (color, axis, and size).
