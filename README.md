@@ -16,12 +16,18 @@ Bachelor of Arts in Mathematics | The University of Nevada Las Vegas (_2018-2022
 
 ### Projects
 EXCEL
+
 <br/>FIFA Video Game Dashboard
 - Cleaned dataset by removing missing values, filtering, grouping of data based on conditions.
 - Used various Excel functions to create final dataset.
   PROPER(),TRIM(),LEFT(),MID(),FIND(),IF(),VLOOKUP(),SUBSTITUTE(),COUNTIF()
 - Created dashboard that uses six pivot tables with five slicers to display player statistics.
 - Value: Provides insights about player salary, height, weight, and best position. You can analyze these values by age, continent, and if they are right of left foot.
+
+Coffee Sales Dashboard
+- Used VLOOKUP() to create multiple new columns.
+- Changed format of date and currency columns.
+- Created three pivot tables with three slicers and a timeline for a functioning dashboard to show sales over time.
 
 Bike Sales Dashboard
 - Cleaned dataset using various functions within excel.
