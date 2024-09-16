@@ -16,25 +16,25 @@ Bachelor of Arts in Mathematics | The University of Nevada Las Vegas (_2018-2022
 
 ## Projects
 **EXCEL**
-<br/>* *FIFA Video Game Dashboard* *
+<br/>*FIFA Video Game Dashboard* 
 - Cleaned dataset by removing missing values, filtering, grouping of data based on conditions.
 - Used various Excel functions to create final dataset.
   PROPER(),TRIM(),LEFT(),MID(),FIND(),IF(),VLOOKUP(),SUBSTITUTE(),COUNTIF()
 - Created dashboard that uses six pivot tables with five slicers to display player statistics.
 - Value: Provides insights about player salary, height, weight, and best position. You can analyze these values by age, continent, and if they are right of left foot.
 
-* *Coffee Sales Dashboard* *
+*Coffee Sales Dashboard* 
 - Used VLOOKUP() to create multiple new columns.
 - Changed format of date and currency columns.
 - Created three pivot tables with three slicers and a timeline for a functioning dashboard to show sales over time.
 
-* *Bike Sales Dashboard* *
+*Bike Sales Dashboard* 
 - Cleaned dataset using various functions within excel.
 - Combines three pivot tables and four slicers to analyze bike sales.
 - Value: Provides business insight about customers and how likely they are to buy a bike based on their demographic or personal characteristics.
 
 **PYTHON**
-<br/>* *NFL Home Attendance and Team Success* *
+<br/>*NFL Home Attendance and Team Success*
 - Combined web scrapping with an already existing dataset to gather more datapoints.
 - Performed in depth data cleaning techniques to combine multiple excel files into one working dataset.
 - Filtered and joined values based on team names.
@@ -45,7 +45,7 @@ Bachelor of Arts in Mathematics | The University of Nevada Las Vegas (_2018-2022
 - Analyzed social media data of teams to compare to fan attendance.
 - Value: Demonstration knowledge in Pandas, web scraping, NumPy, and large language models.
 
-* *Google Play Data Cleaning* *
+*Google Play Data Cleaning* 
 - Used Pandas library to find incorrect data and null values.
 - Changed column types to match their data fields.
 - Removed duplicate rows and kept the app with the most reviews.
@@ -53,7 +53,7 @@ Bachelor of Arts in Mathematics | The University of Nevada Las Vegas (_2018-2022
 - Reformatted data to have consistency  throughout (Converted M and k to just be bytes for app size).
 - Value: Demonstrates experience with Pandas Library and data manipulation<br/> 
 
-* *Olympian Data Cleaning and Analysis* *
+*Olympian Data Cleaning and Analysis* 
 - Removed unwanted characters from columns.
 - Used regular expressions to parse strings to split data into separate columns (height and weight).
 - Extracted dates from values to create a datetime column using regular expressions.
@@ -63,14 +63,14 @@ Bachelor of Arts in Mathematics | The University of Nevada Las Vegas (_2018-2022
 - Value: Demonstrates knowledge with the Pandas library, as well as matplotlib to analyze and visualize data.
 
 **SQL**
-<br/>* *Northwind Traders Database (SQL Server)* *
+<br/>*Northwind Traders Database (SQL Server)* 
 - Used various join methods to combine tables.
 - Demonstrated knowledge of CTE's and UNION to find results.
 - Performed group by and aggregate functions to summarize data.
 - Conducted eight separate queries to answer questions about the dataset. 
 - Value: Demonstrates ability to analyze sales data to answer business questions.
 
-* *Sakila Database* * (MySQL)
+*Sakila Database*  (MySQL)
 - Performed multiple joins to combine tables and properly analyze them.
 - Made use of Concat and aggregate functions such as Sum and Count.
 - Used Case to provide conditional logic to queries.
@@ -78,7 +78,7 @@ Bachelor of Arts in Mathematics | The University of Nevada Las Vegas (_2018-2022
 - Value: Demonstrates knowledge of different SQL functions and topics.
 
 **TABLEAU**
-<br/>* *Northwind Traders Data* *
+<br/>*Northwind Traders Data* 
 - Created interactive dashboard based on SQL queries
 - Used different visualization techniques such as bar graphs, map graphs, line graphs, and data charts.
 - Provides knowledge of yearly sales, top employees, popular and least popular countries, and products.
