@@ -15,8 +15,8 @@ Bachelor of Arts in Mathematics | The University of Nevada Las Vegas (_2018-2022
 - Developed critical thinking skills by proving and solving problems using various strategies
 
 ## Projects
-###EXCEL
-* *FIFA Video Game Dashboard* *
+**EXCEL**
+<br/>* *FIFA Video Game Dashboard* *
 - Cleaned dataset by removing missing values, filtering, grouping of data based on conditions.
 - Used various Excel functions to create final dataset.
   PROPER(),TRIM(),LEFT(),MID(),FIND(),IF(),VLOOKUP(),SUBSTITUTE(),COUNTIF()
@@ -33,7 +33,7 @@ Bachelor of Arts in Mathematics | The University of Nevada Las Vegas (_2018-2022
 - Combines three pivot tables and four slicers to analyze bike sales.
 - Value: Provides business insight about customers and how likely they are to buy a bike based on their demographic or personal characteristics.
 
-###PYTHON
+**PYTHON**
 <br/>* *NFL Home Attendance and Team Success* *
 - Combined web scrapping with an already existing dataset to gather more datapoints.
 - Performed in depth data cleaning techniques to combine multiple excel files into one working dataset.
@@ -62,7 +62,7 @@ Bachelor of Arts in Mathematics | The University of Nevada Las Vegas (_2018-2022
 - Created a group by table to analyze the average BMI of athletes based on the country they competed for and their gender. 
 - Value: Demonstrates knowledge with the Pandas library, as well as matplotlib to analyze and visualize data.
 
-###SQL 
+**SQL**
 <br/>* *Northwind Traders Database (SQL Server)* *
 - Used various join methods to combine tables.
 - Demonstrated knowledge of CTE's and UNION to find results.
@@ -77,14 +77,14 @@ Bachelor of Arts in Mathematics | The University of Nevada Las Vegas (_2018-2022
 - Performed DateDiff to analyze date values.
 - Value: Demonstrates knowledge of different SQL functions and topics.
 
-###TABLEAU
+**TABLEAU**
 <br/>* *Northwind Traders Data* *
 - Created interactive dashboard based on SQL queries
 - Used different visualization techniques such as bar graphs, map graphs, line graphs, and data charts.
 - Provides knowledge of yearly sales, top employees, popular and least popular countries, and products.
 - Value: Demonstrates knowledge in visualizing data, filters, and creating dashboards that work together.
 
-### Experience
+## Experience
 American Red Cross Volunteer - Scheduling Team Member
 - Used Red Cross database to contact and schedule appointments for new volunteers
 - Analyzed database for missing or incorrect values
