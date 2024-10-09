@@ -82,8 +82,14 @@ Bachelor of Arts in Mathematics | The University of Nevada Las Vegas (_2018-2022
 - Created interactive dashboard based on SQL queries
 - Used different visualization techniques such as bar graphs, map graphs, line graphs, and data charts.
 - Provides knowledge of yearly sales, top employees, popular and least popular countries, and products.
-- Value: Demonstrates knowledge in visualizing data, filters, and creating dashboards that work together.
+- Value: Demonstrates knowledge in visualizing data, filters, and creating dashboards that can be used in a business setting.
 
+**Power BI**
+<br/>*Toy Sales Data*
+- Created interactive dashboard to display Key Performance Indicators for a business.
+- Used different visualization techniques to easily communicate findings.
+- Value: Demonstrates knowledge in visualization techniques, slicers, and ability to represent KPIs for a business.
+ 
 ## Experience
 American Red Cross Volunteer - Scheduling Team Member
 - Used Red Cross database to contact and schedule appointments for new volunteers
