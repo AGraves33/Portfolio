@@ -84,7 +84,7 @@ Bachelor of Arts in Mathematics | The University of Nevada Las Vegas (_2018-2022
 - Provides knowledge of yearly sales, top employees, popular and least popular countries, and products.
 - Value: Demonstrates knowledge in visualizing data, filters, and creating dashboards that can be used in a business setting.
 
-**Power BI**
+**POWER BI**
 <br/>*Toy Sales Data*
 - Created interactive dashboard to display Key Performance Indicators for a business.
 - Used different visualization techniques to easily communicate findings.
